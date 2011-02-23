@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "fibonacci-gem.gemspec",
     "lib/fibonacci-gem.rb",
     "test/helper.rb",
     "test/test_fibonacci-gem.rb"
