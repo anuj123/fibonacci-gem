@@ -31,3 +31,7 @@ module Fibonacci
   end
   
 end
+
+class Fixnum
+      include Fibonacci
+end
