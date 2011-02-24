@@ -32,7 +32,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
-  s.summary = %q{TODO: one-line summary of your gem}
+  s.summary = %q{This gem gives fibonnaci integer lower than integer}
   s.test_files = [
     "test/helper.rb",
     "test/test_fibonacci-gem.rb"
