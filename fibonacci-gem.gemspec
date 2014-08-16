@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.authors = ["Anuj"]
   s.date = %q{2011-02-22}
   s.description = %q{This gem will give fibonacci number less than integer}
-  s.email = %q{anuj.thapliyal@gmail.com}
+  s.email = %q{}
   s.extra_rdoc_files = [
     "LICENSE.txt",
     "README.rdoc"
